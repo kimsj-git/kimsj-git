@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!;Let+me+introduce...;my+Github+😊&size=30&color=00DDFF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+😊&size=30&color=00DDFF)](https://git.io/typing-svg)
 ## 🌐 Projects
 ### 💎 Currently working on ..
 <a href="https://github.com/kimsj-git/League_of_MOVIES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kimsj-git&repo=league_of_movies&theme=transparent&title_color=00DDFF&icon_color=00DDFF&" alt="League_of_MOVIES"></a>
