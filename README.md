@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+😊&size=30&color=58a6ff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+😊&size=25&color=58a6ff)](https://git.io/typing-svg)
 ## :seedling: Projects
 - <a href="https://github.com/kimsj-git/League_of_MOVIES">League of MOVIES</a>
 - <a href="https://github.com/kimsj-git/YES_ALGO_KEEP_CODING">YES_ALGO_KEEP_CODING</a>
