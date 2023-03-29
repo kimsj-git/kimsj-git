@@ -8,7 +8,7 @@
 - <a href="https://github.com/kimsj-git/Leetcode">Leetcode</a>
 
 ## 🛠️ Skills & Tools
-![skills](https://skillicons.dev/icons?i=python,django,javascript,react,vuejs,html,css,nodejs,sqlite,git,github,gitlab,vscode,aws,figma&theme=light)
+![skills](https://skillicons.dev/icons?i=python,pytorch,django,javascript,react,vuejs,html,css,nodejs,sqlite,git,github,gitlab,vscode,figma&theme=light)
 <!--
 **kimsj-git/kimsj-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
